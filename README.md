@@ -1,8 +1,10 @@
 # Hi there! I'm GrenkaUkraine 👋
 
+[https://grenkaukraine.com](https://www.grenkaukraine.com)
+
 I'm a 15-year-old developer with a passion for programming and technology. I'm currently on the lookout for exciting job opportunities and collaborative projects. If you have an idea in mind or a position available, I’d love to hear from you!
 
-Feel free to reach out via [Telegram](https://t.me/GrenkaUkraine) or [Discord](https://discord.com/users/GrenkaUkraine) (same username: GrenkaUkraine) for a quicker response. You can also email me at [grenkaukrainefromukraine@gmail.com](mailto:grenkaukrainefromukraine@gmail.com).
+Feel free to reach out via [Telegram](https://t.me/GrenkaUkraine) or [Discord](https://discord.com/users/GrenkaUkraine) (same username: GrenkaUkraine) for a quicker response. You can also email me at [contact@grenkaukraine.com](mailto:contact@grenkaukraine.com).
 
 ## Technologies I Know
 - **JavaScript:** Proficient in building interactive web applications.
